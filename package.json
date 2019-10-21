@@ -1,0 +1,21 @@
+{
+  "name": "my-ledger",
+  "version": "1.0.0",
+  "description": "Simple ledger implementation using CLI",
+  "main": "ledger.js",
+  "scripts": {
+    "test": "./my-ledger.sh"
+  },
+  "keywords": [
+    "ledger",
+    "simple",
+    "implementation",
+    "CLI"
+  ],
+  "author": "Andres Castellanos",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^3.0.2"
+  }
+}
