@@ -9,7 +9,7 @@ After having all your .ledgers files with correct entries data you need to creat
 # Run
 node ledger.js [options] [commands]
 
-#Options
+# Options
 ## Required 
   -f <path_to_file>
   --file <path_fo_file>
@@ -19,7 +19,7 @@ node ledger.js [options] [commands]
   
   --price_db <price_db_name>
   
-## Commands 
+# Commands 
 ## Supported
   bal [accounts]
   balance [accounts]
