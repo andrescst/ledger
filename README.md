@@ -27,6 +27,6 @@ node ledger.js [options] [commands]
   print [accounts]
   
 ### Working on it
-  reg [accounts
+  reg [accounts]
   register [accounts]
   
