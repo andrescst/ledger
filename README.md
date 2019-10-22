@@ -1,4 +1,4 @@
-# ledger
+# Ledger
 Simpler ledger implementation in javascript.
 
 #Usage
@@ -10,23 +10,23 @@ After having all your .ledgers files with correct entries data you need to creat
 node ledger.js [options] [commands]
 
 # Options
-## Required 
+### Required 
   -f <path_to_file>
   --file <path_fo_file>
 
-## Optional 
+### Optional 
   --sort VALEXPR [ValueExpressions](https://www.ledger-cli.org/3.0/doc/ledger3.html#Value-Expressions)
   
   --price_db <price_db_name>
   
 # Commands 
-## Supported
+### Supported
   bal [accounts]
   balance [accounts]
   
   print [accounts]
   
-## Working on it
+### Working on it
   reg [accounts
   register [accounts]
   
