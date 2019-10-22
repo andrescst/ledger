@@ -12,6 +12,7 @@ node ledger.js [options] [commands]
 # Options
 ### Required 
   -f <path_to_file>
+  
   --file <path_fo_file>
 
 ### Optional 
@@ -22,11 +23,13 @@ node ledger.js [options] [commands]
 # Commands 
 ### Supported
   bal [accounts]
+  
   balance [accounts]
   
   print [accounts]
   
 ### Working on it
   reg [accounts]
+  
   register [accounts]
   
